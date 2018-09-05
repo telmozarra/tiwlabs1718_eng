@@ -5,8 +5,6 @@
 
 University Carlos III de Madrid
 
-Course 2017-2018
-
 <!-- MarkdownTOC depth=3 -->
 
 - [Introduction and purpose](#introduction-and-purpose)
